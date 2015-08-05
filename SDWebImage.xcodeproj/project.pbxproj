@@ -383,7 +383,6 @@
 		DAE75C441B5531B40044DE5E /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C2E1B5531B40044DE5E /* AFHTTPRequestOperation.h */; };
 		DAE75C451B5531B40044DE5E /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C2E1B5531B40044DE5E /* AFHTTPRequestOperation.h */; };
 		DAE75C461B5531B40044DE5E /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C2E1B5531B40044DE5E /* AFHTTPRequestOperation.h */; };
-		DAE75C471B5531B40044DE5E /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C2F1B5531B40044DE5E /* AFHTTPRequestOperation.m */; };
 		DAE75C481B5531B40044DE5E /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C2F1B5531B40044DE5E /* AFHTTPRequestOperation.m */; };
 		DAE75C491B5531B40044DE5E /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C2F1B5531B40044DE5E /* AFHTTPRequestOperation.m */; };
 		DAE75C4A1B5531B40044DE5E /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C2F1B5531B40044DE5E /* AFHTTPRequestOperation.m */; };
@@ -395,7 +394,6 @@
 		DAE75C501B5531B40044DE5E /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C301B5531B40044DE5E /* AFHTTPRequestOperationManager.h */; };
 		DAE75C511B5531B40044DE5E /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C301B5531B40044DE5E /* AFHTTPRequestOperationManager.h */; };
 		DAE75C521B5531B40044DE5E /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C301B5531B40044DE5E /* AFHTTPRequestOperationManager.h */; };
-		DAE75C531B5531B40044DE5E /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C311B5531B40044DE5E /* AFHTTPRequestOperationManager.m */; };
 		DAE75C541B5531B40044DE5E /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C311B5531B40044DE5E /* AFHTTPRequestOperationManager.m */; };
 		DAE75C551B5531B40044DE5E /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C311B5531B40044DE5E /* AFHTTPRequestOperationManager.m */; };
 		DAE75C561B5531B40044DE5E /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C311B5531B40044DE5E /* AFHTTPRequestOperationManager.m */; };
@@ -407,7 +405,6 @@
 		DAE75C5C1B5531B40044DE5E /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C321B5531B40044DE5E /* AFHTTPSessionManager.h */; };
 		DAE75C5D1B5531B40044DE5E /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C321B5531B40044DE5E /* AFHTTPSessionManager.h */; };
 		DAE75C5E1B5531B40044DE5E /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C321B5531B40044DE5E /* AFHTTPSessionManager.h */; };
-		DAE75C5F1B5531B40044DE5E /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C331B5531B40044DE5E /* AFHTTPSessionManager.m */; };
 		DAE75C601B5531B40044DE5E /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C331B5531B40044DE5E /* AFHTTPSessionManager.m */; };
 		DAE75C611B5531B40044DE5E /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C331B5531B40044DE5E /* AFHTTPSessionManager.m */; };
 		DAE75C621B5531B40044DE5E /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C331B5531B40044DE5E /* AFHTTPSessionManager.m */; };
@@ -425,7 +422,6 @@
 		DAE75C6E1B5531B40044DE5E /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C351B5531B40044DE5E /* AFNetworkReachabilityManager.h */; };
 		DAE75C6F1B5531B40044DE5E /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C351B5531B40044DE5E /* AFNetworkReachabilityManager.h */; };
 		DAE75C701B5531B40044DE5E /* AFNetworkReachabilityManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C351B5531B40044DE5E /* AFNetworkReachabilityManager.h */; };
-		DAE75C711B5531B40044DE5E /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C361B5531B40044DE5E /* AFNetworkReachabilityManager.m */; };
 		DAE75C721B5531B40044DE5E /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C361B5531B40044DE5E /* AFNetworkReachabilityManager.m */; };
 		DAE75C731B5531B40044DE5E /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C361B5531B40044DE5E /* AFNetworkReachabilityManager.m */; };
 		DAE75C741B5531B40044DE5E /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C361B5531B40044DE5E /* AFNetworkReachabilityManager.m */; };
@@ -437,7 +433,6 @@
 		DAE75C7A1B5531B40044DE5E /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C371B5531B40044DE5E /* AFSecurityPolicy.h */; };
 		DAE75C7B1B5531B40044DE5E /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C371B5531B40044DE5E /* AFSecurityPolicy.h */; };
 		DAE75C7C1B5531B40044DE5E /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C371B5531B40044DE5E /* AFSecurityPolicy.h */; };
-		DAE75C7D1B5531B40044DE5E /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C381B5531B40044DE5E /* AFSecurityPolicy.m */; };
 		DAE75C7E1B5531B40044DE5E /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C381B5531B40044DE5E /* AFSecurityPolicy.m */; };
 		DAE75C7F1B5531B40044DE5E /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C381B5531B40044DE5E /* AFSecurityPolicy.m */; };
 		DAE75C801B5531B40044DE5E /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C381B5531B40044DE5E /* AFSecurityPolicy.m */; };
@@ -449,7 +444,6 @@
 		DAE75C861B5531B40044DE5E /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C391B5531B40044DE5E /* AFURLConnectionOperation.h */; };
 		DAE75C871B5531B40044DE5E /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C391B5531B40044DE5E /* AFURLConnectionOperation.h */; };
 		DAE75C881B5531B40044DE5E /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C391B5531B40044DE5E /* AFURLConnectionOperation.h */; };
-		DAE75C891B5531B40044DE5E /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3A1B5531B40044DE5E /* AFURLConnectionOperation.m */; };
 		DAE75C8A1B5531B40044DE5E /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3A1B5531B40044DE5E /* AFURLConnectionOperation.m */; };
 		DAE75C8B1B5531B40044DE5E /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3A1B5531B40044DE5E /* AFURLConnectionOperation.m */; };
 		DAE75C8C1B5531B40044DE5E /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3A1B5531B40044DE5E /* AFURLConnectionOperation.m */; };
@@ -461,7 +455,6 @@
 		DAE75C921B5531B40044DE5E /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3B1B5531B40044DE5E /* AFURLRequestSerialization.h */; };
 		DAE75C931B5531B40044DE5E /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3B1B5531B40044DE5E /* AFURLRequestSerialization.h */; };
 		DAE75C941B5531B40044DE5E /* AFURLRequestSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3B1B5531B40044DE5E /* AFURLRequestSerialization.h */; };
-		DAE75C951B5531B40044DE5E /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3C1B5531B40044DE5E /* AFURLRequestSerialization.m */; };
 		DAE75C961B5531B40044DE5E /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3C1B5531B40044DE5E /* AFURLRequestSerialization.m */; };
 		DAE75C971B5531B40044DE5E /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3C1B5531B40044DE5E /* AFURLRequestSerialization.m */; };
 		DAE75C981B5531B40044DE5E /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3C1B5531B40044DE5E /* AFURLRequestSerialization.m */; };
@@ -473,7 +466,6 @@
 		DAE75C9E1B5531B40044DE5E /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3D1B5531B40044DE5E /* AFURLResponseSerialization.h */; };
 		DAE75C9F1B5531B40044DE5E /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3D1B5531B40044DE5E /* AFURLResponseSerialization.h */; };
 		DAE75CA01B5531B40044DE5E /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3D1B5531B40044DE5E /* AFURLResponseSerialization.h */; };
-		DAE75CA11B5531B40044DE5E /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3E1B5531B40044DE5E /* AFURLResponseSerialization.m */; };
 		DAE75CA21B5531B40044DE5E /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3E1B5531B40044DE5E /* AFURLResponseSerialization.m */; };
 		DAE75CA31B5531B40044DE5E /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3E1B5531B40044DE5E /* AFURLResponseSerialization.m */; };
 		DAE75CA41B5531B40044DE5E /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C3E1B5531B40044DE5E /* AFURLResponseSerialization.m */; };
@@ -485,7 +477,6 @@
 		DAE75CAA1B5531B40044DE5E /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3F1B5531B40044DE5E /* AFURLSessionManager.h */; };
 		DAE75CAB1B5531B40044DE5E /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3F1B5531B40044DE5E /* AFURLSessionManager.h */; };
 		DAE75CAC1B5531B40044DE5E /* AFURLSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = DAE75C3F1B5531B40044DE5E /* AFURLSessionManager.h */; };
-		DAE75CAD1B5531B40044DE5E /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C401B5531B40044DE5E /* AFURLSessionManager.m */; };
 		DAE75CAE1B5531B40044DE5E /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C401B5531B40044DE5E /* AFURLSessionManager.m */; };
 		DAE75CAF1B5531B40044DE5E /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C401B5531B40044DE5E /* AFURLSessionManager.m */; };
 		DAE75CB01B5531B40044DE5E /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE75C401B5531B40044DE5E /* AFURLSessionManager.m */; };
@@ -1626,25 +1617,16 @@
 			files = (
 				53761309155AD0D5005750A4 /* SDImageCache.m in Sources */,
 				5376130A155AD0D5005750A4 /* SDWebImageDecoder.m in Sources */,
-				DAE75C531B5531B40044DE5E /* AFHTTPRequestOperationManager.m in Sources */,
 				5376130B155AD0D5005750A4 /* SDWebImageDownloader.m in Sources */,
-				DAE75C891B5531B40044DE5E /* AFURLConnectionOperation.m in Sources */,
 				5376130C155AD0D5005750A4 /* SDWebImageManager.m in Sources */,
 				5376130D155AD0D5005750A4 /* SDWebImagePrefetcher.m in Sources */,
-				DAE75C951B5531B40044DE5E /* AFURLRequestSerialization.m in Sources */,
 				5376130E155AD0D5005750A4 /* UIButton+WebCache.m in Sources */,
-				DAE75C5F1B5531B40044DE5E /* AFHTTPSessionManager.m in Sources */,
-				DAE75C471B5531B40044DE5E /* AFHTTPRequestOperation.m in Sources */,
 				5376130F155AD0D5005750A4 /* UIImageView+WebCache.m in Sources */,
-				DAE75C7D1B5531B40044DE5E /* AFSecurityPolicy.m in Sources */,
 				530E49EC16464C84002868E7 /* SDWebImageDownloaderOperation.m in Sources */,
-				DAE75C711B5531B40044DE5E /* AFNetworkReachabilityManager.m in Sources */,
-				DAE75CAD1B5531B40044DE5E /* AFURLSessionManager.m in Sources */,
 				53406750167780C40042B59E /* SDWebImageCompat.m in Sources */,
 				AB615306192DA24600A2D8E9 /* UIView+WebCacheOperation.m in Sources */,
 				5D5B9145188EE8DD006D06BD /* NSData+ImageContentType.m in Sources */,
 				53EDFB8C17623F7C00698166 /* UIImage+MultiFormat.m in Sources */,
-				DAE75CA11B5531B40044DE5E /* AFURLResponseSerialization.m in Sources */,
 				ABBE71A818C43B4D00B75E91 /* UIImageView+HighlightedWebCache.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
