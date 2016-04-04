@@ -1966,6 +1966,7 @@
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = debugging;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
 		};
@@ -1991,6 +1992,7 @@
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				STRIP_STYLE = debugging;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
 		};
